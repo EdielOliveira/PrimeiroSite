@@ -1,0 +1,48 @@
+body {
+    font-size: 100%;
+}
+
+h1 {
+    text-align: center;
+    background-color: gray;
+    font-size: 1.5em;
+    color: white;
+}
+
+p {
+    font-size: 1.5em;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    background-color: gray;
+    font-size: 1.5em;
+    color: white;
+}
+
+/*Seletor de link*/
+a:link {
+    color: blue;
+}
+
+/*Seletor de link visitado*/
+a:visited {
+    color: blue;
+}
+
+/*Seletor de link quando o mouse passar por cima do link*/
+a:hover {
+    color: green;
+}
+
+/* Classe criacção*/
+.fonte {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+body{
+    font-size: 100%;
+}
